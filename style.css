@@ -58,7 +58,7 @@ input.search-bar {
     border-radius: 24px;
     background: #7c7c7c2b;
     color: white;
-    font-size: 105%;
+    font-size: 120%;
     font-family: inherit;
     width: calc(100% - 100px);
 }
