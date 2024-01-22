@@ -8,7 +8,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
     <title>Weather App</title>
     <link rel="stylesheet" href="./style.css">
-    <script src="./script.js"></script>
+    <script src="./script.js" defer></script>
      </head>
      <body>
         <div class="card">
@@ -19,7 +19,9 @@
             <div class="weather">
                 <h2 class="city">Weather in Denver</h2>
                 <h1 class="temp">51°C</h1>
-                <img src="" alt="" class="icon" />
+                <div class="flex">
+                    <img src="https://openweathermap.org/img/wn/04d.png" alt="" class="icon" />
+                </div>
                 <div class="description">Cloudy</div>
                 <div class="humidity">Humidty: 60%</div>
                 <div class="wind">Wind speed: 6.5 km/h</div>
