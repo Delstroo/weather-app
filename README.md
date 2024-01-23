@@ -1,0 +1,26 @@
+# Weather App
+
+## Description
+This Weather App is a simple web application created using HTML and CSS. It provides real-time weather information when a location is searched.
+
+## Features
+- Real-time weather information
+- User-friendly interface
+- Minimalistic design
+
+## How to Use
+1. Clone the repository or download the ZIP file.
+2. Open the `index.html` file in your preferred web browser.
+3. Enter the location you want to get weather information for.
+4. Click the "Search" button.
+5. View the real-time weather details for the specified location.
+
+## Credits
+- Weather data: https://openweathermap.org
+- Image data: https://unsplash.com
+
+## Acknowledgments
+- This was a tutorial that I followed using this as refrence.
+  https://www.youtube.com/watch?v=WZNG8UomjSI&t=1593s
+
+Feel free to take a look!
