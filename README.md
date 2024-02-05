@@ -21,3 +21,7 @@ This Weather App is a simple web application created using HTML and CSS. It prov
   https://www.youtube.com/watch?v=WZNG8UomjSI&t=1593s
 
 Feel free to take a look!
+
+##View
+Here is an example of what can be expected when making a search.
+![Screenshot 2024-02-04 at 9 26 08 PM](https://github.com/Delstroo/weather-app/assets/87548497/f8e9eb2d-de2b-47df-8984-2356a237e0cc)
