@@ -1,11 +1,6 @@
 ## Description
 This Weather App is a simple web application created using HTML and CSS. It provides real-time weather information when a location is searched. Please feel free to visit [here.](https://delstroo.github.io/weather-app/)
 
-## Features
-- Real-time weather information
-- User-friendly interface
-- Minimalistic design
-
 ## How to Use
 1. Clone the repository or download the ZIP file.
 2. Open the `index.html` file in your preferred web browser.
