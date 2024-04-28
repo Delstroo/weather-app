@@ -9,8 +9,8 @@ This Weather App is a simple web application created using HTML and CSS. It prov
 5. View the real-time weather details for the specified location.
 
 ## Credits
-- Weather data: https://openweathermap.org
-- Image data: https://unsplash.com
+- Weather data - https://openweathermap.org
+- Image data - https://unsplash.com
 
 ## Acknowledgments
 - This was a tutorial that I followed using this as refrence.
