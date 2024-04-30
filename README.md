@@ -12,10 +12,6 @@ This Weather App is a simple web application created using HTML and CSS. It prov
 - Weather data - https://openweathermap.org
 - Image data - https://unsplash.com
 
-## Acknowledgments
-- This was a tutorial that I followed using this as refrence.
-  https://www.youtube.com/watch?v=WZNG8UomjSI&t=1593s
-
 Feel free to take a look!
 
 ## Example
