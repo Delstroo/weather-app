@@ -8,7 +8,7 @@ This Weather App is a simple web application created using HTML and CSS. It prov
 4. Click the "Search" button.
 5. View the real-time weather details for the specified location.
 
-## Credits
+## Data Sources
 - [Weather data](https://openweathermap.org)
 - [Image data](https://unsplash.com)
 
