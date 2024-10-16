@@ -6,7 +6,7 @@ This Weather App is a simple web application created using HTML and CSS. It prov
 2. Open the `index.html` file in your preferred web browser *Can also open in VSCode or any other text editor*.
 3. Enter the location you want to get weather information for.
 4. Click the "Search" button.
-5. View the real-time weather details for the specified location
+5. View the real-time weather details for the specified location.
 
 ## Data Sources
 - [Weather data](https://openweathermap.org)
